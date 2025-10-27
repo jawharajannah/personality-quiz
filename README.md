@@ -8,5 +8,5 @@ How to Run
 - Navigate to the directory    
   ```cd Personality-Quiz```  
 - Run the application  
-  ```python3 personality-quiz.py```  
+  ```python3 personality_quiz.py```  
 
